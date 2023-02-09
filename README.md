@@ -3,16 +3,16 @@ A ball of mass $m$ is attached to a stiff, but massless rod of length $l$. Gravi
 
 
 ![image](https://user-images.githubusercontent.com/59151395/217705100-59d1673b-5d7c-49a0-ab74-fecd8f98aca4.png)
-Poincare plots of three initial conditions. Blue: $\theta = 0$, $\omega =  1$. Red: $\theta = 0.6$, $\omega = 0.8$. Purple: $\theta = 1$, $\omega = 0$.
+Poincare plots of three initial conditions. Blue: $\theta = 0$, $\omega =  1$. Red: $\theta = 0.6$, $\omega = 0.8$. Purple: $\theta = 1$, $\omega = 0$. (above)
 
 
 ![image](https://user-images.githubusercontent.com/59151395/217703948-e834dbdf-e037-471c-bab6-548d4f66ab6e.png)
-Modded phase plot of initial condition $\theta = 1$, $\omega = 0$.
+Modded phase plot of initial condition $\theta = 1$, $\omega = 0$. (above)
 
 
 ![image](https://user-images.githubusercontent.com/59151395/217708331-f19d7c91-f861-459f-84e4-4f510ebdd388.png)
-Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\omega =  1$. Red: $\theta = 0.6$, $\omega = 0.8$. Purple: $\theta = 1$, $\omega = 0$.
+Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\omega =  1$. Red: $\theta = 0.6$, $\omega = 0.8$. Purple: $\theta = 1$, $\omega = 0$. (above)
 
 
 ![image](https://user-images.githubusercontent.com/59151395/217709108-bd5a8889-df56-4d8b-85e6-1ceb7a1db0cf.png)
-Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\omega =  0.9$. Red: $\theta = 0$, $\omega = 1.1$. Purple: $\theta = 0$, $\omega = 1$.
+Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\omega =  0.9$. Red: $\theta = 0$, $\omega = 1.1$. Purple: $\theta = 0$, $\omega = 1$. (above)
