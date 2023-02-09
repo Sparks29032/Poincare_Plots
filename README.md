@@ -12,3 +12,7 @@ Modded phase plot of initial condition $\theta = 1$, $\omega = 0$.
 
 Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\omega =  1$. Red: $\theta = 0.6$, $\omega = 0.8$. Purple: $\theta = 1$, $\omega = 0$.
 ![image](https://user-images.githubusercontent.com/59151395/217708331-f19d7c91-f861-459f-84e4-4f510ebdd388.png)
+
+
+Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\omega =  0.9$. Red: $\theta = 0$, $\omega = 1.1$. Purple: $\theta = 0$, $\omega = 1$.
+![image](https://user-images.githubusercontent.com/59151395/217709108-bd5a8889-df56-4d8b-85e6-1ceb7a1db0cf.png)
