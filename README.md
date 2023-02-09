@@ -6,5 +6,9 @@ Poincare plots of three initial conditions. Blue: $\theta = 0$, $\omega =  1$. R
 ![image](https://user-images.githubusercontent.com/59151395/217705100-59d1673b-5d7c-49a0-ab74-fecd8f98aca4.png)
 
 
-Phase plot of initial condition $\theta = 1$, $\omega = 0$.
+Modded phase plot of initial condition $\theta = 1$, $\omega = 0$.
 ![image](https://user-images.githubusercontent.com/59151395/217703948-e834dbdf-e037-471c-bab6-548d4f66ab6e.png)
+
+
+Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\omega =  1$. Red: $\theta = 0.6$, $\omega = 0.8$. Purple: $\theta = 1$, $\omega = 0$.
+![image](https://user-images.githubusercontent.com/59151395/217708331-f19d7c91-f861-459f-84e4-4f510ebdd388.png)
