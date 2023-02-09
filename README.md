@@ -24,3 +24,7 @@ Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\om
 
 ![image](https://user-images.githubusercontent.com/59151395/217725292-e71c1bc2-7dc2-4761-adbf-4c2e82e01850.png)
 Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\omega =  0.999$. Red: $\theta = 0$, $\omega = 1.001$. Purple: $\theta = 0$, $\omega = 1$. (above)
+
+
+![image](https://user-images.githubusercontent.com/59151395/217725609-717e924a-8ddc-4c56-ad98-fe222ae8cd0b.png)
+Phase plots over time for the three initial conditions. Blue: $\theta = 0$, $\omega =  0.9999$. Red: $\theta = 0$, $\omega = 1.0001$. Purple: $\theta = 0$, $\omega = 1$. (above)
