@@ -7,7 +7,7 @@ Poincare plots of three initial conditions. Blue: $\theta = 0$, $\omega =  1$. R
 
 
 ![image](https://user-images.githubusercontent.com/59151395/217703948-e834dbdf-e037-471c-bab6-548d4f66ab6e.png)
-Modded phase plot of initial condition $\theta = 1$, $\omega = 0$; $\phi$ is time $t$ modulo $2\pi/\omega_d$ (above)
+Modded phase plot of initial condition $\theta = 1$, $\omega = 0$; $\phi$ is time $t$ modulo $2\pi/\omega_d$. (above)
 
 
 ![image](https://user-images.githubusercontent.com/59151395/217708331-f19d7c91-f861-459f-84e4-4f510ebdd388.png)
